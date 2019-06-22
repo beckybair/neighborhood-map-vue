@@ -1,7 +1,9 @@
 <template>
-  <div class="home">
+  <div class="home container">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
+    <font-awesome-icon icon="user-secret" />
+    <button class="btn btn-primary">Click Me</button>
   </div>
 </template>
 
